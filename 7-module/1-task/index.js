@@ -99,6 +99,3 @@ export default class RibbonMenu {
 
   }
 }
-document.body.addEventListener("ribbon-select", (event) =>
-  console.log(event.detail)
-);
